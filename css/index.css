@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#a {
+	height:250px;
+	background-color:red;
+	padding:0;
+	margin-right:10px;
+}
+#b {
+	height:250px;
+	background-color:orange;
+	margin-right:10px;
+}
+#c {
+	height:250px;
+	background-color:yellow;
+	padding:0;
+	clear:left;
+}
